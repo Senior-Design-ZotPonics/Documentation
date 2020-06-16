@@ -7,3 +7,9 @@ All our documentation will be hosted in this repository's [Wiki](https://github.
 
 # Have Fun!
 Have fun building and planting! :blush:
+
+# Media Links 
+
+[Project Overview Page](http://projects.eng.uci.edu/projects/2019-2020/zotponics-smart-automated-hydroponics-system-sustainable-agriculture)
+
+[Rookie researchers](https://news.uci.edu/2020/02/14/rookie-researchers/)
