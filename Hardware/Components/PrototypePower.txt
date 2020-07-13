@@ -1,0 +1,4 @@
+1. Obtain a 120 VAC to 12 VDC power converter (preferrable water proof).
+2. Split the 12V output from the power converter into two 12v wires.
+3. Solder one 12V wire to the + input on the TOBSUN 12 VDC to 5 VDC converter.
+4. Solder one 12V wire to the blue relay.
